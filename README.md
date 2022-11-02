@@ -1,6 +1,6 @@
 <h1 align="center">
   
-  ⭐️ <img alt="TATAPLAY Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tata_Play_2022_logo.svg/1200px-Tata_Play_2022_logo.svg.png" width="224px"/> ⭐️
+  ⭐️ <img alt="TATAPLAY Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tata_Play_2022_logo.svg/1200px-Tata_Play_2022_logo.svg.png" width="500px"/> ⭐️
 </h1>
 <p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
 
