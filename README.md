@@ -1,8 +1,8 @@
 <h1 align="center">
   
-  ⭐️ <img alt="TATAPLAY Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tata_Play_2022_logo.svg/1200px-Tata_Play_2022_logo.svg.png" width="300px"/> ⭐️
+  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/TATA-PLAY/main/TATA-PLAY.m3u"><img alt="TATAPLAY Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tata_Play_2022_logo.svg/1200px-Tata_Play_2022_logo.svg.png" width="300px"/></a> ⭐️
 </h1>
-<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
+<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/TATA-PLAY/main/TATA-PLAY.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
 
 # ▶️ How To Play:
 
