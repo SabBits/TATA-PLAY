@@ -37,7 +37,7 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 <strong>clearkey</strong> Added Instead Of <strong>widevine</strong>
+🚨 <strong>clearkey</strong> Added Instead Of <strong>widevine</strong><br>
 🚨 If Any Channel Is Missing, Fire Up An Issue!
 
 # 💛 Contact Me:
