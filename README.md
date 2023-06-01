@@ -3,6 +3,7 @@
   ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/TATA-PLAY/main/TATA-PLAY.m3u"><img alt="TATAPLAY Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tata_Play_2022_logo.svg/1200px-Tata_Play_2022_logo.svg.png" width="300px"/></a> ⭐️
 </h1>
 <p align="center" style="font-size:30px;"><strong>Shut Down!</strong></p>
+<p align="center">Go <a href="https://github.com/sabbiriptv/Special-Notice">Here</a> For More Info!</p>
 
 # ▶️ How To Play:
 
