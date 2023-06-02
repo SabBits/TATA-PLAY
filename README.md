@@ -2,6 +2,8 @@
   
   ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/TATA-PLAY/main/TATA-PLAY.m3u"><img alt="TATAPLAY Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tata_Play_2022_logo.svg/1200px-Tata_Play_2022_logo.svg.png" width="300px"/></a> ⭐️
 </h1>
+<p align="center">Playlist Offline!</p>
+<p align="center">If You Want In Private, Contact Me</p>
 
 # ▶️ How To Play:
 
@@ -40,3 +42,5 @@
 
 # 💛 Contact Me:
 <a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
+<h2 align="center">DM Me On Discord: SabbirHasan#6976</h2>
+<h2 align="center">DM Me On Telegram: https://t.me/thesabbirhasan</h2>
