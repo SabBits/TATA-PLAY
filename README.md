@@ -1,7 +1,9 @@
-<h2 align="center">Hey There! This Playlist Is Expired, If You Want The Latest One Join: <a href="https://t.me/+1MZ5HOTaIIs0NTc1">CodeCrafters</a></h2> 
+<div align="center">
+  <h1>Join: <a href="https://t.me/realcodecrafters">CodeCrafters</a></h1>
+  <h1>⚠️This project is no longer maintained⚠️</h1>
+</div>
 
-<h1 align="center">
-  
+<h1 align="center">  
   ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/TATA-PLAY/main/TATA-PLAY.m3u"><img alt="TATAPLAY Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tata_Play_2022_logo.svg/1200px-Tata_Play_2022_logo.svg.png" width="300px"/></a> ⭐️
 </h1>
 <p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/TATA-PLAY/main/TATA-PLAY.m3u">M3U</a> File Containing <b>Free</b> Streamable Links Of <strong>TATA-PLAY</strong></p>
@@ -39,10 +41,9 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 Previous Domain Got Banned!<br>
-🚨 Many Of You Requested To RE-Open It On DM, So This Is The Last Update!
+🚨 This project is no longer maintained
 
 # 💛 Contact Me:
-<a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
-<h2 align="center">DM Me On Discord: SabbirHasan#6976</h2>
-<h2 align="center">DM Me On Telegram: https://t.me/thesabbirhasan</h2>
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sab_bits)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/603268462940389401)
+[![email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sabbits@proton.me)
